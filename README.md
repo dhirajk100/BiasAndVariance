@@ -1,5 +1,5 @@
-# BiasAndVariance
-BiasAndVariance
+# Bias And Variance
+Bias And Variance
 Bias and Variance | Bias Variance Trade-off | Over-fitting and Under-fitting in Machine Learning
 Bias is the error introduced by very simplistic assumptions in a model. This leads to under-fitting.
 Variance is the error introduced when a model is too sensitive to fluctuations in the training data. This leads to Over-fitting in Machine Learning
